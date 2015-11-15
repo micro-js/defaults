@@ -1,0 +1,15 @@
+{
+  "name": "defaults",
+  "description": "Soft version of extend.  Assigns own properties only if they are undefined in the original object.",
+  "repository": "git://github.com/micro-js/defaults.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "dependencies": {
+    "foreach": "github:micro-js/foreach"
+  },
+  "devDependencies": {
+    "tape": "^4.2.0",
+    "standard": "^4.0.0"
+  }
+}
