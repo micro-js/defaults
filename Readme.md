@@ -7,7 +7,13 @@ Soft version of extend.  Assigns own properties only if they are undefined in th
 
 ## Installation
 
-    $ npm install defaults
+    $ npm install micro-js/defaults
+
+## Usage
+
+`defaults({a: 1}, {a: 2}) -> {a: 1}`
+
+`defaults({a: 1}, {b: 2}) -> {a: 1, b: 2}`
 
 ## License
 
