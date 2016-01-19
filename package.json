@@ -2,7 +2,7 @@
   "name": "@f/defaults",
   "description": "Soft version of extend.  Assigns own properties only if they are undefined in the original object.",
   "repository": "git://github.com/micro-js/defaults.git",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
